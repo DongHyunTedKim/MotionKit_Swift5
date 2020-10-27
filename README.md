@@ -6,3 +6,5 @@ KOR) Swift5에서 동작할 수 있게 편집한 MotionKit입니다.
 # MotionKit_Original
 The original MotionKit is at the following link.
 https://github.com/MHaroonBaig/MotionKit
+
+All details follow the information in the link above.
